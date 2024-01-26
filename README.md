@@ -11,5 +11,11 @@ Navigating the terrain of Sales Prediction, I seamlessly blended exploratory dat
 ## 3. E-mail Spam Detection
 In the domain of cybersecurity, I took on the challenge of E-mail Spam Detection. From meticulous data cleaning to feature extraction, I employed three distinct ML algorithms to classify emails into spam and non-spam categories. Through rigorous metric comparisons, I unveiled the effectiveness of each algorithm in combating spam. This task not only honed my technical skills but also underscored the importance of leveraging machine learning for enhancing email security.
 
-# Data Science #MachineLearning #InternshipJourney #OasisInfobyte #ImpactfulInsights 📊💻🔍
+## Usage and Contributions
+Feel free to explore the code and insights shared in this repository. Each task is organized into separate directories, providing a clear structure for easy navigation. Contributions and suggestions are welcome! If you find ways to enhance or optimize the code, or if you have additional insights to share, please feel free to open issues or pull requests. Let's collaborate and learn together!
+
+## Acknowledgment
+I express my gratitude to Oasis Infobyte for providing this enriching Data Science Internship opportunity. Special thanks to the mentors and colleagues who supported and guided me throughout this journey. Together, we continue to make strides in the dynamic field of data science.
+
+### Data Science ###MachineLearning ###InternshipJourney ###OasisInfobyte ###ImpactfulInsights 📊💻🔍
  
