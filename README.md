@@ -16,6 +16,7 @@ Feel free to explore the code and insights shared in this repository. Each task 
 
 ## Acknowledgment
 I express my gratitude to Oasis Infobyte for providing this enriching Data Science Internship opportunity. Special thanks to the mentors and colleagues who supported and guided me throughout this journey. Together, we continue to make strides in the dynamic field of data science.
+Best Regards,
 
-### Data Science ###MachineLearning ###InternshipJourney ###OasisInfobyte ###ImpactfulInsights 📊💻🔍
+[Taufeeq Hussain]
  
